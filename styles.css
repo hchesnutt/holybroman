@@ -1,0 +1,8 @@
+
+body {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAFFJREFUGBmNjcENwCAMA11WYv8RuhO4StER8gAJkZxPRpL6vDzeK0ZnE7K8xCo4GIHnvOsJ+EYvBaPFWwjXD5vKr9lE+ecV+zIGnI/QwEKW+gDCdwb/LYgRmgAAAABJRU5ErkJggg==);
+    background-repeat: repeat
+}
+h1 {font-size: 80px}
+h2 {font-size: 50px}
+a {font-size: 16px}
