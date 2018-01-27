@@ -1,7 +1,10 @@
-
-body {
-    background-image: url(lone-star.png);
-    background-repeat: repeat
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background-image: url(lone-star.png);
+	background-repeat: repeat;
 }
 h1 {font-size: 80px}
 h2 {font-size: 50px}
@@ -26,4 +29,12 @@ input#un-mute:checked ~ .unmute img {
 
 input#un-mute:checked ~ .mute img {
     display: none;
+}
+
+#confetti{
+  position: relative;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
 }
